@@ -1,6 +1,7 @@
 The goal of this project is to predict the soil organic matter content, and therefore soil quality.
 
 Why? 
+
 Soil fertility is important because it determines how well crops will grow, and how much nutritional content there is in the crops produced. As climate change is disrupting natural nutrient cycling and our soil quality is worsening due to destructive farming practices, it is important to understand what factors can improve soil health. Soil is the basis of our economy as it provides livelihoods for farmers, and the basis for our health and well-being as it provides us with the food we need. Through this project, I hope to understand what specific variables can result in the most fertile soil, therefore helping farmers and producing healthy crops.
 
 Goals of this Project: 
