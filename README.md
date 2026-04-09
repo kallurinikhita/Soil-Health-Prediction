@@ -1,7 +1,3 @@
-Here’s a **short, GitHub-ready README** version:
-
----
-
 # Predicting Soil Organic Matter Content
 
 ## Overview
@@ -70,7 +66,3 @@ Best model: **Boosted Trees**
 ## Goal
 
 Use machine learning to better understand soil health and improve agricultural decision-making.
-
----
-
-If you want, I can also make a **1-paragraph ultra-short version for pinned GitHub repo or resume link section**.
